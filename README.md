@@ -1,6 +1,6 @@
 # Trulioo SDK for Java - Hydrogen Fork #
 
-## Version 1.0.2.1
+## Version 1.0.9.9
 
 ### This is a fork of Trulioo SDK 1.0.2.1 intended to serve as a bridge to the new Trulioo API. Trulioo has not yet released their SDK but helped me develop this fork which adjusts the API URL and replaces Basic authentication with API Key authentication.
 When Trulioo releases their matching SDK, simply update the maven pom reference and remove this package from the local maven repository named "local-maven-repo" under the project root.
